@@ -1,0 +1,41 @@
+.Userlist{
+    width    : 100%;
+    height       : auto;
+    border-radius:20px;
+    border       : 2px solid red;
+    box-shadow  : 9px 20px 20px 0px rgb(248, 137, 137);
+}
+.text{
+    margin     : 0px auto 0px auto;
+    text-align : center;
+  }
+  .Userlist__load--btn{
+    padding         : 10px 30px;
+    border-radius   : 8px;
+    border       : 0px solid;
+    background-color: #ff0000;
+    color          : white;
+    font-weight   : bold;
+    height          : 48px;
+    width           : 200px;
+    float       : left;
+  }
+  .Userlist__table{
+      width: 100%;
+      margin-left: 100px;
+  }
+  .Userlist__table--btn{
+    padding         : 10px 30px;
+    border-radius   : 10px;
+    border          : 0px solid;
+    background-color: #ff0000;
+    color         : white;
+    font-weight     : bold;
+    height    : 48px;
+    width        : 100px;
+    float           : left;
+    margin-left: 10px;
+  }
+  .Userlist__table--btn:hover, .Userlist__load--btn:hover{
+ background-color: orange;
+  }

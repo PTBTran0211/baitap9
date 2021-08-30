@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Phan Thi Bao Tran",
+        "code": 3001190300,
+        "age": 20,
+        "address": "Ho Chi Minh",
+        "title": "FE developer"
+      },
+      {
+        "id": 2,
+        "name": "Minh Sach",
+        "code": 3001190300,
+        "age": 25,
+        "address": "Soc Trang",
+        "title": "FE developer"
+      },
+      {
+        "id": 3,
+        "name": "Minh Sach",
+        "code": 3001190300,
+        "age": 25,
+        "address": "Soc Trang",
+        "title": "FE developer"
+      },
+      {
+        "id": 4,
+        "name": "Minh Sach",
+        "code": 3001190300,
+        "age": 25,
+        "address": "Soc Trang",
+        "title": "FE developer"
+      },
+      {
+        "id": 5,
+        "name": "Minh Sach",
+        "code": 3001190300,
+        "age": 25,
+        "address": "Soc Trang",
+        "title": "FE developer"
+      }
+    ]
+  }
